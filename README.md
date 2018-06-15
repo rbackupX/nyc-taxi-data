@@ -82,3 +82,14 @@ Code in support of the post ["When Are Citi Bikes Faster Than Taxis in New York 
 ## Questions/issues/contact
 
 todd@toddwschneider.com, or open a GitHub issue
+
+
+
+
+
+
+https://rstudio-pubs-static.s3.amazonaws.com/212546_99e3e0ef1d144cd5986a979f54d50403.html
+https://medium.com/@gopalaj61/analyzing-1-2-billion-nyc-taxi-rides-83ea8012827e
+https://aws.amazon.com/blogs/big-data/10-visualizations-to-try-in-amazon-quicksight-with-sample-data/
+https://github.com/toddwschneider/nyc-taxi-data
+https://github.com/ViDA-NYU/aws_taxi
